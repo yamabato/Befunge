@@ -64,5 +64,3 @@ void read_code(struct CodeData *code_data, struct Arguments *args) {
   }
   code_data->lines = lines;
 }
-
-
