@@ -13,4 +13,4 @@ $(OBJS): $(SRCS)
 all: clean $(OBJS) $(TARGET)
 
 clean:
-	-rm -f $(OBJS) $(TARGET)
+	-rm -f $(OBJS) $(TARGET) *.out
